@@ -73,7 +73,7 @@ function App() {
 
         <div className="row align-items-center min-vh-100">
 
-          <div className="col-md-6" data-aos="fade-right">
+          <div className="col-md-6" data-aos="fade-up">
 
             <h1 className="display-3 fw-bold text-primary">
               Mayrink Tech Solutions
@@ -118,7 +118,7 @@ function App() {
 
           </div>
 
-          <div className="col-md-6 text-center" data-aos="fade-left">
+          <div className="col-md-6 text-center" data-aos="fade-up">
 
             <img
               src={heroImage}
@@ -289,7 +289,7 @@ function App() {
 
           <div
             className="col-md-6 text-center"
-            data-aos="fade-left"
+            data-aos="fade-up"
           >
 
             <div className="card bg-dark border-primary p-4">
