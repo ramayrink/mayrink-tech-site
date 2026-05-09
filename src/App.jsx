@@ -17,7 +17,13 @@ function App() {
             className="navbar-brand d-flex align-items-center gap-2"
             href="#inicio"
           >
-            
+
+            <img
+              src={logo}
+              alt="Mayrink Tech Solutions"
+              width="55"
+            />
+
             <span className="fw-bold text-primary d-none d-sm-inline">
               Mayrink Tech
             </span>
