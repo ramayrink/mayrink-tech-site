@@ -119,7 +119,7 @@ body {
 }
 
 .navbar-toggler-icon {
-  filter: invert(1);
+  filter: brightness(0) invert(1);
 }
 
 .nav-link {
