@@ -75,7 +75,7 @@ body {
 
   transition: 0.3s;
 
-  z-index: 999;
+  z-index: 9999;
 }
 
 .whatsapp-float:hover {
@@ -104,14 +104,22 @@ body {
   z-index: 9999;
 }
 
-.navbar-collapse {
-  background: rgba(0, 0, 0, 0.95);
+@media (max-width: 991px) {
 
-  padding: 20px;
+  .navbar-collapse {
+    background: rgba(0, 0, 0, 0.95);
 
-  border-radius: 15px;
+    padding: 20px;
 
-  margin-top: 10px;
+    border-radius: 15px;
+
+    margin-top: 10px;
+  }
+
+}
+
+.navbar-toggler-icon {
+  filter: invert(1);
 }
 
 .nav-link {
