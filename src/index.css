@@ -64,6 +64,10 @@ body {
   z-index: 9999;
 }
 
+.navbar-brand {
+  max-width: 70%;
+}
+
 @media (max-width: 991px) {
 
   .navbar-collapse {
@@ -76,6 +80,10 @@ body {
     margin-top: 10px;
   }
 
+}
+
+.navbar-toggler {
+  margin-left: auto;
 }
 
 .navbar-toggler-icon {
