@@ -180,3 +180,36 @@ h1 {
 html {
   scroll-behavior: smooth;
 }
+
+body {
+  overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+
+  .display-3 {
+    font-size: 2.4rem;
+    text-align: center;
+  }
+
+  .lead {
+    text-align: center;
+  }
+
+  .hero-badge {
+    width: auto;
+  }
+
+  .btn-lg {
+    width: 100%;
+  }
+
+  .row.align-items-center {
+    text-align: center;
+  }
+
+  .navbar-brand img {
+    width: 45px;
+  }
+
+}
