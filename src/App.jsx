@@ -21,10 +21,10 @@ function App() {
             <img
               src={logo}
               alt="Mayrink Tech Solutions"
-              width="80"
+              width="55"
             />
 
-            <span className="fw-bold text-primary">
+            <span className="fw-bold text-primary d-none d-sm-inline">
               Mayrink Tech
             </span>
 
