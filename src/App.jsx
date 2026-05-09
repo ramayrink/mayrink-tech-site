@@ -555,14 +555,7 @@ function App() {
         </div>
 
       </footer>
-
-      <a
-        href="https://wa.me/5531992110595?text=Olá%20Rafael!%20Vim%20pelo%20site%20da%20Mayrink%20Tech%20Solutions%20e%20gostaria%20de%20um%20orçamento."
-        target="_blank"
-        className="whatsapp-float"
-      >
-        <i className="bi bi-whatsapp"></i>
-      </a>
+      
     </>
   )
 }
