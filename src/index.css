@@ -233,8 +233,7 @@ html {
   }
 
   .hero-badge {
-    width: 100%;
-    justify-content: center;
+    width: auto;
   }
 
   .btn-lg {
@@ -244,5 +243,9 @@ html {
   .row.align-items-center {
     text-align: center;
   }
+
+  body {
+  overflow-x: hidden;
+}
 
 }
