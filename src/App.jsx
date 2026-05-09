@@ -14,7 +14,7 @@ function App() {
         <div className="container">
 
           <a
-            className="navbar-brand d-flex align-items-center gap-2"
+            className="navbar-brand d-flex align-items-center"
             href="#inicio"
           >
 
@@ -555,7 +555,7 @@ function App() {
         </div>
 
       </footer>
-      
+
     </>
   )
 }
