@@ -100,6 +100,20 @@ body {
   transition: 0.3s;
 }
 
+.navbar {
+  z-index: 9999;
+}
+
+.navbar-collapse {
+  background: rgba(0, 0, 0, 0.95);
+
+  padding: 20px;
+
+  border-radius: 15px;
+
+  margin-top: 10px;
+}
+
 .nav-link {
   transition: 0.3s;
 }
@@ -197,4 +211,30 @@ h1 {
 
 html {
   scroll-behavior: smooth;
+}
+
+@media (max-width: 768px) {
+
+  .display-3 {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .lead {
+    text-align: center;
+  }
+
+  .hero-badge {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .btn-lg {
+    width: 100%;
+  }
+
+  .row.align-items-center {
+    text-align: center;
+  }
+
 }
