@@ -56,6 +56,12 @@ function App() {
               </li>
 
               <li className="nav-item">
+                <a className="nav-link text-white" href="#faq">
+                  FAQ
+                </a>
+              </li>
+
+              <li className="nav-item">
                 <a className="nav-link text-white" href="#contato">
                   Contato
                 </a>
@@ -349,7 +355,7 @@ function App() {
 
         <div className="text-center mb-5">
 
-          <h2 className="fw-bold text-primary">
+          <h2 id="faq"className="fw-bold text-primary">
             Perguntas Frequentes
           </h2>
 
