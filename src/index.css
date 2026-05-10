@@ -224,6 +224,8 @@ body {
     max-width: 100%;
     height: auto;
     margin-top: 40px;
+  }
+
 }
 
 .section-divider {
@@ -241,6 +243,4 @@ body {
 
   box-shadow:
     0 0 20px rgba(0, 191, 255, 0.5);
-}
-
 }
