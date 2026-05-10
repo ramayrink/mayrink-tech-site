@@ -353,9 +353,9 @@ function App() {
         data-aos="fade-up"
       >
 
-        <div className="text-center mb-5">
+        <div id="faq" className="text-center mb-5">
 
-          <h2 id="faq"className="fw-bold text-primary">
+          <h2 className="fw-bold text-primary">
             Perguntas Frequentes
           </h2>
 
