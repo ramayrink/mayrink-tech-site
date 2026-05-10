@@ -119,7 +119,7 @@ function App() {
             >
               <i className="bi bi-whatsapp"></i>
 
-              {' '} Chamar no WhatsApp
+              {' '} Solicitar Orçamento
             </a>
 
           </div>
@@ -484,6 +484,28 @@ function App() {
           </div>
 
         </div>
+
+      </div>
+
+      <div className="container py-5 text-center">
+
+        <h2 className="fw-bold text-primary mb-4">
+          Precisa de suporte técnico?
+        </h2>
+
+        <p className="lead text-light mb-4">
+          Entre em contato agora mesmo e solicite seu orçamento.
+        </p>
+
+        <a
+          href="https://wa.me/5531992110595?text=Olá%20Rafael!%20Vim%20pelo%20site%20da%20Mayrink%20Tech%20Solutions%20e%20gostaria%20de%20um%20orçamento."
+          target="_blank"
+          className="btn btn-success btn-lg px-5 py-3 whatsapp-btn"
+        >
+          <i className="bi bi-whatsapp"></i>
+
+          {' '} Solicitar Orçamento
+        </a>
 
       </div>
 
