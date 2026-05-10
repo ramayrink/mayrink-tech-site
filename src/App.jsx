@@ -173,7 +173,9 @@ function App() {
                 </h5>
 
                 <p className="card-text">
-                  Instalação do Windows, drivers e otimização completa.
+                  Formatação completa com instalação do Windows,
+                  drivers atualizados, programas essenciais e otimização
+                  para máximo desempenho.
                 </p>
 
               </div>
@@ -197,7 +199,9 @@ function App() {
                 </h5>
 
                 <p className="card-text">
-                  Limpeza interna e troca de pasta térmica.
+                  Limpeza interna profissional, remoção de poeira
+                  e troca de pasta térmica para melhor refrigeração
+                  e desempenho.
                 </p>
 
               </div>
@@ -221,7 +225,9 @@ function App() {
                 </h5>
 
                 <p className="card-text">
-                  Upgrade SSD e memória RAM para máximo desempenho.
+                  Upgrade com SSD e memória RAM para deixar
+                  seu computador mais rápido, fluido e eficiente
+                  no dia a dia.
                 </p>
 
               </div>
@@ -245,7 +251,9 @@ function App() {
                 </h5>
 
                 <p className="card-text">
-                  Diagnóstico e reparo especializado.
+                  Diagnóstico técnico completo e manutenção especializada
+                  para solucionar falhas e melhorar o funcionamento
+                  do equipamento.
                 </p>
 
               </div>
