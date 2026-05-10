@@ -86,7 +86,7 @@ function App() {
             </h1>
 
             <p className="lead mt-4 mb-4">
-              Suporte técnico profissional para computadores e notebooks.
+              Assistência técnica especializada em computadores e notebooks em Betim e região.
               Formatação, limpeza, upgrades e manutenção especializada.
             </p>
 
@@ -129,7 +129,7 @@ function App() {
             <img
               src={heroImage}
               className="img-fluid rounded shadow-lg hero-image"
-              alt="Mayrink Tech Solutions"
+              alt="Assistência técnica Mayrink Tech Solutions"
             />
 
           </div>
@@ -147,7 +147,7 @@ function App() {
         <div className="text-center mb-5">
 
           <h2 className="fw-bold text-primary">
-            Nossos Serviços
+            Assistência Técnica Especializada
           </h2>
 
           <p className="text-light">
@@ -530,7 +530,7 @@ function App() {
               </h3>
 
               <p className="text-light mt-3">
-                Suporte técnico profissional para computadores e notebooks.
+                Assistência técnica especializada em computadores e notebooks em Betim e região.
                 Soluções rápidas, modernas e confiáveis.
               </p>
 
