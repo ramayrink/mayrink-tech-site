@@ -132,6 +132,8 @@ function App() {
 
       </div>
 
+      <div className="section-divider"></div>
+
       {/* Serviços */}
 
       <div id="servicos" className="container py-5">
@@ -250,6 +252,8 @@ function App() {
 
       </div>
 
+      <div className="section-divider"></div>
+
       {/* Sobre */}
 
       <div
@@ -333,6 +337,8 @@ function App() {
         </div>
 
       </div>
+
+      <div className="section-divider"></div>
 
       {/* FAQ */}
 
