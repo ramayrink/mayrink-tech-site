@@ -25,7 +25,7 @@ function App() {
             />
 
             <span className="fw-bold text-primary d-none d-md-inline">
-              Mayrink Tech
+              Mayrink Tech Solutions
             </span>
 
           </a>
